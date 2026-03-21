@@ -1,6 +1,6 @@
 <script>
-	import Button from '$lib/components/atoms/Button.svelte';
-	import Error from '$lib/icons/error.svelte';
+	import Button from "$lib/components/atoms/Button.svelte";
+	import Error from "$lib/icons/error.svelte";
 </script>
 
 <div class="error-page">
@@ -9,7 +9,12 @@
 		<div class="svg-wrapper">
 			<Error />
 		</div>
-		<p>It seems like coffee was spilled all over this page, and now it can't be displayed.</p>
+		<p>
+			It seems like coffee was spilled all over this page, and
+			now it can't be displayed.
+			<br />
+			<br />
+		</p>
 		<br />
 		<Button href="/">Start over</Button>
 	</div>
@@ -34,7 +39,9 @@
 			margin-bottom: -30px;
 
 			:global(svg) {
-				filter: drop-shadow(2px 6px 0px rgba(0, 0, 0, 0.1));
+				filter: drop-shadow(
+					2px 6px 0px rgba(0, 0, 0, 0.1)
+				);
 			}
 		}
 	}
