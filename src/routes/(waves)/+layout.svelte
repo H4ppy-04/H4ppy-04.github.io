@@ -1,14 +1,20 @@
 <script>
-	import Waves from '$lib/components/organisms/Waves.svelte';
-	import Header from '$lib/components/organisms/Header.svelte';
-	import Footer from '$lib/components/organisms/Footer.svelte';
+	import Waves from "$lib/components/organisms/Waves.svelte";
+	import Header from "$lib/components/organisms/Header.svelte";
+	import Footer from "$lib/components/organisms/Footer.svelte";
 
-	import { description, image, keywords, title, siteBaseUrl } from '$lib/data/meta';
+	import {
+		description,
+		image,
+		keywords,
+		title,
+		siteBaseUrl,
+	} from "$lib/data/meta";
 </script>
 
 <svelte:head>
 	<link rel="“canonical”" href={siteBaseUrl} />
-	<meta name="keywords" content={keywords.join(', ')} />
+	<meta name="keywords" content={keywords.join(", ")} />
 
 	<meta name="description" content={description} />
 	<meta property="og:description" content={description} />
