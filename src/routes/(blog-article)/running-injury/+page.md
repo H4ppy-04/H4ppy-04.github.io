@@ -3,7 +3,7 @@ slug: running-injury
 title: Running Injury
 date: 2026-11-10T12:53:00.000Z
 excerpt: An Unfortunate Injury
-coverImage: /images/posts/desert-running.jpg
+coverImage: /images/posts/injury.jpg
 tags:
   - running
   - exercise
@@ -20,8 +20,6 @@ tags:
 ## Summary
 
 This is going to be a relatively short post. I have unfortunately sustained a running injury. I have yet to get it checked but I am fairly certain that it is muscular or tendon based in nature and to the right of my left tibia.
-
-<Image src="/images/posts/injury.jpg" alt="Injury" />
 
 This is a caution against overtraining and an endorsement of adequate rest. Persistant 20 kilometer weeks has led to this mistake. In future, I need to prioritize not just increasing mileage slowly, but also the importance of rest, especially after difficult runs.
 
