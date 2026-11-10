@@ -21,8 +21,15 @@ tags:
 
 This is going to be a relatively short post. I have unfortunately sustained a running injury. I have yet to get it checked but I am fairly certain that it is muscular or tendon based in nature and to the right of my left tibia.
 
+<Image src="/images/posts/injury.jpg" alt="Injury" />
+
 This is a caution against overtraining and an endorsement of adequate rest. Persistant 20 kilometer weeks has led to this mistake. In future, I need to prioritize not just increasing mileage slowly, but also the importance of rest, especially after difficult runs.
 
 This will probably be a very slow recovery, and my sub-22 goal is definitely going to be have to put further back.
 
 This will likely be my last running-related post in a while as well.
+
+Also for context this is the incident/straw that broke the camels back:
+
+
+<Image src="/images/posts/midnight-runners.png" alt="Midnight Runners Post" />
