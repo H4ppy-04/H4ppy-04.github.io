@@ -31,3 +31,10 @@ Also for context this is the incident/straw that broke the camels back:
 
 
 <Image src="/images/posts/midnight-runners.png" alt="Midnight Runners Post" />
+
+## Update
+
+I have now got it scanned and the bad news is that I will be completely off running for a few weeks. I have got a muscle tear in my leg and so I am not allowed to do any jogging, hiking or brisk walking. This is pretty devastating news but is once again a testament to what happens if you overtrain and not give muscles time to repair themselves and adapt to new mileage.
+
+
+<Image src="/images/posts/ultrasound.png" alt="Ultrasound" />
